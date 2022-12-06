@@ -11,3 +11,5 @@
 - [Classification](https://github.com/Valyaevgeorgiy/Machine_learning/tree/main/Classification) — изучение модели классификации и построение экземпляра модели на простом примере данных.
 - [Images_classif](https://github.com/Valyaevgeorgiy/Machine_learning/tree/main/Images_classif) — погружение в анализ лиц людей и построение модели классификации на изображениях лиц выборки данных из kaggle.
 - [Text_classif](https://github.com/Valyaevgeorgiy/Machine_learning/tree/main/Text_classif) — плотная работа с новостными текстовыми данными и построение модели классификации текстов новостей из выборки данных из sklearn.datasets.
+- [Metrics_efficiency](https://github.com/Valyaevgeorgiy/Machine_learning/tree/main/Metrics_efficiency) — оценка эффективности моделей бинарной классификации при помощи использования соответствующих метрик (sklearn.metrics => accuracy_score(), precision_score(), recall_score()).
+- [Learning_curves](https://github.com/Valyaevgeorgiy/Machine_learning/tree/main/Learning_curves) — построение кривых обучения в течение анализа и обработки данных для моделей классификации с последующим применением метрик эффективности, ROC-кривой и показателя AUC.
