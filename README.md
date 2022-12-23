@@ -15,4 +15,6 @@
 - [Learning_curves](https://github.com/Valyaevgeorgiy/Machine_learning/tree/main/Learning_curves) — построение кривых обучения в течение анализа и обработки данных для моделей классификации с дополнительным учётом параметров регуляризации модели.
 - [Preprocessing](https://github.com/Valyaevgeorgiy/Machine_learning/tree/main/Preprocessing) — освоение способов предобработки данных для начала анализа датасета перед обучением модели.
 - [EDA](https://github.com/Valyaevgeorgiy/Machine_learning/tree/main/EDA) — полноценная обработка данных с описательной статистикой перед стадией построения модели машинного обучения (модель классификации, которая предсказывает, кто забьёт первый мяч в финале Чемпионата Мира 2022 в Катаре). 
+- [Clustering](https://github.com/Valyaevgeorgiy/Machine_learning/tree/main/Clustering) — изучение логики работы кластеризации в машинном обучении как модели обучения без учителя со всеми тонкими моментами на тренировочном датасете.
+- [PCA](https://github.com/Valyaevgeorgiy/Machine_learning/tree/main/PCA) — знакомство с методом главных компонентов в анализе датасета и использовании понижения его размерности до ключевых категорий в целях реализации кластеризации.
  
