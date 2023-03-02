@@ -4,8 +4,8 @@
 
 ### Deep Learning (DL)
 
-- [PyTorch](https://github.com/Valyaevgeorgiy/Deep_learning/tree/main/Tensor_structure.ipynb)
-- [LinearNN](https://github.com/Valyaevgeorgiy/Deep_learning/tree/main/NN_blocks_backprop.ipynb)
+- [PyTorch](https://github.com/Valyaevgeorgiy/ML-DL/blob/main/Deep_Learning/Tensor_structure.ipynb) — полноценное изучение фреймворка Torch и его главных методов, функций.
+- [LinearNN](https://github.com/Valyaevgeorgiy/ML-DL/blob/main/Deep_Learning/NN_blocks_backprop.ipynb) — построение полносвязного слоя ручным методом и использованием созданного модуля в PyTorch (torch.nn.Linear) для создания наследованного класса с пропиской результата на выходе из слоя + изучение главных функций активаций и потерь с дальнейшим их применением к результату выхода из полносвязного слоя нейросети.
 
 <hr>
 
