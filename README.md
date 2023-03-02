@@ -1,6 +1,15 @@
-# Machine_learning
+# ML-DL
 
-Реализованные методические работы с разработкой своих моделей машинного обучения на Python в рамках прохождения дисциплины "Технологии анализа данных и машинного обучения" в Финансовом университете.
+Реализованные методические работы с разработкой своих моделей машинного обучения и нейросетей методами глубокого обучения на Python в рамках прохождения дисциплины "Технологии анализа данных и машинного обучения" в Финансовом университете.
+
+### Deep Learning (DL)
+
+- [PyTorch](https://github.com/Valyaevgeorgiy/Deep_learning/tree/main/Tensor_structure.ipynb)
+- [LinearNN](https://github.com/Valyaevgeorgiy/Deep_learning/tree/main/NN_blocks_backprop.ipynb)
+
+<hr>
+
+### Machine Learning (ML)
 
 - [NumPy](https://github.com/Valyaevgeorgiy/Machine_learning/tree/main/NumPy) — первоначальная работа с библиотекой NumPy в рамках работы с массивами входных данных.
 - [Pandas](https://github.com/Valyaevgeorgiy/Machine_learning/tree/main/Pandas) — изучение структур данных (DataFrame & Series) через библиотеку Pandas.
